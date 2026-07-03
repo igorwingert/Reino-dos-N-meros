@@ -1,0 +1,6 @@
+﻿*.rpgsave
+save/
+www/save/
+Thumbs.db
+desktop.ini
+*.bak
